@@ -2,7 +2,7 @@ This NextJs project handles user authentication using NextAuth with third-party 
 
 ## Supported third-party logins:
 
-1, Google__
-2, Naver__
-3, Whale Space__
-4, Kakao__
+1, Google <br />
+2, Naver <br />
+3, Whale Space <br />
+4, Kakao <br />
